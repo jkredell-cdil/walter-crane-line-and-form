@@ -60,6 +60,10 @@ expressive of the modelling of the arm and the
 rounding of the pot, and also by cast shadows from
 the forms.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f092" %}
+
+
 The system of expressing relief I have termed
 relief by contrast includes two kinds of contrast:
 there are the contrasts of line and form, and there
@@ -131,6 +135,10 @@ in pattern may be obtained by a greater proportion
 of the repeat being occupied by the ground (as in
 No. 5, p. 169).
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f093" %}
+
+
 Indeed we may consider as a general principle
 that the larger the interspaces of the ground, plane,
 or field of the pattern, the lighter in tint they should
@@ -180,6 +188,14 @@ graceful compositions, to combine diverse and rigid elements
 with free and flowing lines and masses, and to fill panels with
 greater richness and effect, whether carved or painted, or both.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f094a" %}
+
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f094b" %}
+
+
 Use of Diapered Backgrounds
 
 The principle, too, of counterchange in heraldry
@@ -221,6 +237,10 @@ no less for delineation of character and decorative
 treatment than for ornamental invention controlled
 by strict economy of line.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f095" %}
+
+
 Relief of Form by Linear Shading
 
 This brings us to the consideration of our second
@@ -234,6 +254,10 @@ ground by a series of waved lines to suggest the
 ribbed sand. Add a few dots to soften and vary
 the effect, and we get a pattern of a certain
 balance and consistency (No. 1, p. 177).
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f096a" %}
+
 
 With the more varied and complex floral form,
 but treated in a very abstract way, placing the
@@ -252,6 +276,10 @@ The diagonal arrangement of the trees produces a
 chequer, the intervals of which can be varied by
 the contrasting black masses of the birds.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f096b" %}
+
+
 In graphic drawing, lines to express forms in
 the relief of light and shade are often needed to
 give additional force even where no great degree
@@ -261,6 +289,10 @@ and give it solidity, while local colour may
 be given to the hair, and at the same time serve
 to relieve the leaves of a wreath encircling the
 head (see illustration, p. 178).
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f097a" %}
+
 
 The rich effect of clustered apples growing
 among their leaves could hardly be suggested
@@ -293,6 +325,10 @@ figures, and a certain breadth and style is given
 to their drawings owing in part to the simplicity
 of this linear treatment.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f097b" %}
+
+
 Emphasis
 
 No doubt the simpler the system of line
@@ -317,6 +353,10 @@ treatment. The three sketches of the skirt
 dancer are given as instances of the different
 effects and expression to be obtained in rendering
 the same subject (p. 181).
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f098" %}
+
 
 In a the broad relief of the white dress against
 the tones of the floor and background, and the
@@ -367,6 +407,10 @@ give a certain character to our work beyond our
 own idiosyncrasies in the use of the pen or the
 brush.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f099" %}
+
+
 Useful things may be learned by the way, such
 as Albert Dürer's principle of giving substance to
 his figures and details, more especially seen in his
@@ -376,6 +420,10 @@ and solidity to the figure (p. 183). The
 reproductions here given of sketches of drapery
 by Filippino Lippi and Raphael also show the
 same principle.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f100" %}
+
 
 A figure or object of any kind, seen in full light
 and shade, is relieved at any of its edges either as
@@ -389,8 +437,16 @@ between the light part, the half-tones, and the darkest
 parts; but this broad principle governs all work
 representing light and shade.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f101" %}
+
+
 It is, in fact, *the principle of the relief of form*
 represented upon a plane surface.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f102" %}
+
 
 Relief by Light and Shade Alone
 
@@ -404,6 +460,10 @@ proper masses and relations. The pen sketch of
 the man with the hoe (p. 188) is intended to illustrate
 this method.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f103a" %}
+
+
 There is also the method of representing form
 in relief by means of working with white line only
 upon a dark ground, the modelling and planes of
@@ -413,6 +473,10 @@ of *light*, and may be contrasted with the opposite
 method of working by means of black line only
 on a light ground, or drawing by means of *shade*
 (as in b, p. 189).
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f103b" %}
+
 
 Yet another method, and one in which the effect
 of relief can be obtained more readily and rapidly,
@@ -480,6 +544,10 @@ contrasts with the richness and variety and the stronger
 effect of light and shade, produced by deep undercutting,
 in the latter (h, i, j, k).
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f104" %}
+
+
 The Romans, however, produced rich and highly
 ornate effects in the use of these types of mouldings,
 as they reappeared in the Corinthian order, the
@@ -489,6 +557,10 @@ cornice casting a bold shadow, and both in the
 cornice and the hollow beneath the dentils enriched
 with carving, as seen in the splendid fragment of
 the Forum of Nerva.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f105" %}
+
 
 When we pass to the more complex problems
 of figure modelling and sculpture, it is but carrying
@@ -528,6 +600,10 @@ disturbing the flatness and repose of the wall surface
 (p. 195). The Egyptians, indeed, seem to
 have treated their walls more as if they were books
 for record and statement, symbol and hieroglyphic.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f106" %}
+
 
 Messrs. Perrot and Chipiez, in their "History
 of Ancient Art in Egypt," speak of three processes
@@ -572,6 +648,10 @@ in such works as the Pan-Athenaic frieze. It was
 strictly slab sculpture, and became part of the
 surface of the wall.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f107" %}
+
+
 Gothic Sculpture
 
 The structural and ornamental feeling also asserts
@@ -593,6 +673,14 @@ of the sculptured tympanum were strictly related
 to the space, and the degree and treatment
 of the relief clearly felt in regard to the architectural
 effect (p. 201).
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f108" %}
+
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f109" %}
+
 
 Architectural Influence
 
@@ -639,6 +727,10 @@ instance not only of the treatment of the portrait
 and subject on the reverse perfectly adapted to its
 method and purpose, but also of the artistic use of
 lettering as a decorative feature (see p. 203).
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f110" %}
+
 
 The treatment and relief of figures and heads
 upon the plane surfaces of metals and coins, the

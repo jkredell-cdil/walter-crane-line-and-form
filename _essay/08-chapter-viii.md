@@ -40,10 +40,18 @@ certain concentration of light upon the highest
 parts, or indicating a modulation of shadow in
 interstices, might betray its solidity (see p. 206).
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f111a" %}
+
+
 But if we place a figure so that the light falls
 from one side, we perceive that it at once stands
 out in bold relief in broad planes of light and
 shade, further emphasized by cast shadows (p. 207).
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f111b" %}
+
 
 It would be possible to represent or to express
 a figure or object so lighted by means of laying in
@@ -60,6 +68,10 @@ and yet not strong enough to need rubbing out,
 is also a good method for those who do not feel
 certain enough for the absolutely direct method of
 drawing.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f112" %}
+
 
 Now in drawing, as I think I have pointed out
 before, no less than in all art, there are two main
@@ -106,6 +118,10 @@ younger designers, who have been largely influenced
 by Hokusai and other Japanese artists,
 who are always skilful in the use of solid blacks.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f113" %}
+
+
 In line-drawing a very useful principle to observe,
 to give solidity to figures and objects, is to
 let one's lines—say of drapery or shadow—run
@@ -113,6 +129,10 @@ into solid blacks in the deepest interstices of the
 forms, as when folds of drapery are wrapped
 about a figure, or in the deeper folds themselves
 (No. 1, p. 213).
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f114" %}
+
 
 The Ornamental Aim
 
@@ -147,6 +167,10 @@ effect by relieving the birds upon a darker ground,
 by defining the details of their forms more, or by
 alternating them in black or white, or by adopting
 the simple principle of counterchange (see p. 215).
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f115" %}
+
 
 Flowers or figures would be capable of the
 same simple and abstract treatment; and almost
@@ -183,6 +207,10 @@ may not only learn to appreciate the ornamental
 value of such forms, but by such adaptation and
 re-combination produce new varieties of ornament
 (see p. 217).
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f116" %}
+
 
 We may perceive how distinct are the two aims
 as between simple graphic drawing, or delineation,
@@ -275,6 +303,14 @@ such as figures or buildings, half veiled in light
 and atmosphere, colours and forms in twilight, or
 half lost in luminous depths of shadow.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f117a" %}
+
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f117b" %}
+
+
 The Outward Vision and Inner Vision
 
 The decorative designer will sometimes want to
@@ -314,6 +350,14 @@ in the faithfulness and truth of its graphic record,
 in the penetrating force of observation of fact,
 and the representative power by which they are
 reproduced on paper or canvas, clay or marble.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f118a" %}
+
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f118b" %}
+
 
 The image of the inner vision is also a record,
 but of a different order of fact. It may be often

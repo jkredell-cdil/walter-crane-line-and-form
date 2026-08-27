@@ -59,6 +59,10 @@ would show a tendency upon a blue ground to
 blend or blur at its edges, and also on yellow and
 green to a less extent.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f132" %}
+
+
 It is this tendency to lose the edges of forms
 owing to the radiation of colours, and to mingle
 with the colour of the background, which makes a
@@ -72,6 +76,10 @@ greatest value in enhancing by opposition the
 brilliance of the colours of the glass it incloses,
 stopping out the light around it as it does in solid
 lead when placed in the window.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f133" %}
+
 
 Clearing Coloured Forms
 
@@ -402,6 +410,10 @@ patterns and decoration would lead up, as in the
 picture the little mirror reflecting the figures shines
 upon the wall, a picture within a picture.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f134" %}
+
+
 It is instructive from any point of view to study
 the quantities and relations of colour, and their
 tones and values, in such works.
@@ -410,6 +422,10 @@ Ver Meer of Delft
 
 Take Ver Meer's "Lady at a Spinet" in our
 National Gallery.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f135" %}
+
 
 We have a plain white wall, exquisite in tone,
 upon which the crisp gold of the small picture inclosing
@@ -532,6 +548,10 @@ stable occur three more angels in white, rose, and
 green, respectively. Against a pale sky rise rich
 olive-green trees, forming the background.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f136" %}
+
+
 The Virgin strikes the brightest ray of colour
 in red under-robe and sky-blue mantle. There is
 a gray white ass and a pale brown cow behind
@@ -588,6 +608,10 @@ strongest black and white, may be found in
 Holbein's splendid "Ambassadors," also in our
 National Collection.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f137" %}
+
+
 Botticelli
 
 The circular picture of the Madonna and Child,
@@ -596,6 +620,10 @@ another beautiful instance of pictorial pattern, and
 of design well adapted and adequately filling its
 space, while full of delicate draughtsmanship,
 poetic sentiment, and extremely ornate in its colour.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f138" %}
+
 
 Carlo Crivelli
 
@@ -609,6 +637,10 @@ and black, green, blue and gold, in the costumes
 and draperies, sparkling with jewels, and brightened
 with rays and patterns of gold.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f139" %}
+
+
 Perugino
 
 Hardly less ornamental in its more conscious
@@ -619,6 +651,10 @@ other. It is a splendid deep-toned harmony of
 blues, and warm flesh tones and golden hair, varied
 by opals, rose red, bronze, green, white, and purple
 and orange.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f140" %}
+
 
 Titian
 
@@ -644,6 +680,10 @@ orange, and white draperies, varied with the
 spotted coats of the leopards, the black of the
 dog, and the copper vessel and warm white of
 tumbled drapery.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f141" %}
+
 
 Keats might have had this picture in his mind
 when he wrote the song in "Endymion":
@@ -679,6 +719,10 @@ with the subject fully and illustrate it adequately
 would need, not ten chapters, but ten hundred,
 and could only be compassed by the history of art
 itself.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f142" %}
+
 
 Conclusion
 

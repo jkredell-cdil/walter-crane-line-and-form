@@ -163,4 +163,8 @@ order: 2
 
 ---
 
+{% include essay/feature/image-gallery.html objectid="25290_f002" %}
+
+
+
 ---

@@ -43,6 +43,10 @@ be quite emphatic and dominate as the leading
 motive, but for perfectly harmonious effect it must
 be there.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f064" %}
+
+
 A strictly simple and logical linear filling of such
 spaces might be expressed in the most primitive
 way, as in the illustration on p. 109.
@@ -64,6 +68,10 @@ the alternate square or circle, leaving the alternate
 ones, or dropping them out altogether (see illustration,
 p. 111).
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f065" %}
+
+
 When we desire to go beyond such primitive
 linear ornaments, however, and introduce natural
 form, we should still be guided by the same principles,
@@ -79,6 +87,10 @@ of controlling line, which, however concealed, is
 yet essential to bring them into that harmonious
 relation which is the essence of all design (see
 illustration, p. 112).
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f066" %}
+
 
 We may take it as a general rule that the more
 purely ornamental the purpose of our design, and
@@ -105,6 +117,10 @@ certainly from architecture that we derive those
 typical spaces and panels the designer is so often
 called upon to fill.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f067" %}
+
+
 Origin of Geometric Decorative Spaces
 
 Lintel architecture—the Egyptian and the Greek—gave
@@ -118,6 +134,10 @@ sculptured panel or slab inserted, and influenced
 the character of its masses and the lines of its design,
 which was under the necessity of harmonizing
 with the whole building (see illustration, p. 114).
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f068" %}
+
 
 The same may be said of the pediments. The
 angle of the low-pitched roof left another interstice
@@ -164,6 +184,14 @@ recurring line, whether used in the horizontal frieze
 in association with round arches, or in spandrils of
 vaults and arcades, and on marble mosaic pavements.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f069" %}
+
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f070" %}
+
+
 Value of the Recurring Line
 
 The development of Gothic architecture, with
@@ -202,6 +230,10 @@ in the same way, and further emphasized
 by the long vertical lines of the sunk panels upon
 their sides.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f071" %}
+
+
 In church doorways we may see certain voussoirs
 of the arch allowed to project from the hollow of
 the concave moulding, and their surfaces carved
@@ -212,6 +244,10 @@ shadow, and the point of their spring is marked
 by a carved lion, controlled in the design of its
 contour by the squareness of the block of stone
 upon which it is carved (see illustration, p. 121).
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f072" %}
+
 
 The carvings of miserere seats in our cathedral
 choirs often afford instances of ingenious design
@@ -230,12 +266,20 @@ the masses and lines, and how the lines of the
 seat and the curves of the terminating scroll are
 re-echoed in the lines of the figures and accessories.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f073" %}
+
+
 A stone-carving from the end of a tomb in the
 same cathedral—that of Bishop John Morgan,
 1504—of a griffin with a shield shows an emphatic
 repetition of the inclosing line of the
 arched recess in the curves of the wings which
 follow it.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f074" %}
+
 
 There is also a charming corbel of a half-figure
 of an angel, which, though somewhat defaced,
@@ -250,7 +294,15 @@ feathers of the wings and break the semicircular
 mouldings of the base of the corbel, repeating
 those of the shafts above.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f075" %}
+
+
 Adaptability in Design
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f076" %}
+
 
 Adaptation to spaces upon a flat surface is also
 illustrated in some tile patterns from the same
@@ -331,6 +383,10 @@ own particular treatment, are brought into general
 relation by their association with use and the
 wants of humanity.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f077a" %}
+
+
 Geometric Structural Plans, etc.
 
 The law governing extension of design over
@@ -361,6 +417,10 @@ organic life and vigour to such designs, and
 are as needful to them as the trellis to the tendrils
 of the vine (see illustration, p. 129).
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f077b" %}
+
+
 The same principle is true of designs upon the
 curvilinear plan. The mere repetition of the
 circle by itself gives us a simple geometric pattern,
@@ -378,6 +438,10 @@ for repetition and extension over space,
 and they are always safe and sound systems to
 build upon, since a geometric plan is certain to
 join comfortably if our measurements are right.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f078" %}
+
 
 We may, however, often feel that we want
 something bolder and freer, and start with a
@@ -480,6 +544,10 @@ A painted frieze of figures above plain oak-panelling
 has a good effect in a large and well-proportioned
 room, and is perhaps one of the
 pleasantest ways of treating interior walls.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f079" %}
+
 
 Ceiling Decoration
 

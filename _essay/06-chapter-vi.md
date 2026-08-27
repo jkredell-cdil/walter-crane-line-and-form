@@ -90,6 +90,10 @@ harmonious composition of line, and gives us definite
 principles upon which to work (see illustration,
 p. 140).
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f080" %}
+
+
 These systems of line in organic nature have
 been adopted and adapted by art, and are found
 throughout the historical forms of ornament which,
@@ -114,10 +118,18 @@ which the delicate contours and flowing lines of
 the surface of the body only combine in a greater
 degree of subtlety (see illustration, p. 142).
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f081a" %}
+
+
 Look at the anatomy of any tree, as it is disclosed
 to us in its wintry leaflessness, a beautiful
 composition of line rather than of form (see illustration,
 p. 143).
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f081b" %}
+
 
 Here we see organic life and structure expressed
 in the vigorous spring of inter-dependent and corresponding
@@ -154,6 +166,10 @@ mass; thus repeating the same general law of
 natural roofing, or covering, in different materials
 (see illustration, p. 145).
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f082" %}
+
+
 In a mass of foliage each leaf falls partly over
 the one below it, as by the system of their growth
 and suspension upon the stem they are of course
@@ -164,6 +180,10 @@ eager to expand its leaves in the light, ever spreading,
 forms mass after mass of the beautiful green
 panoply—the coat armour of the forest, arboreal
 man's first form of domestic architecture.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f083" %}
+
 
 The principle of structure here is just the same
 as the overlapping principle of the tiles and slates
@@ -187,6 +207,10 @@ roofs further than in so far as they illustrate the
 subject of composition of line and form, and from
 the painter's point of view they frequently do in a
 very delightful and instructive way.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f084" %}
+
 
 What, for instance, can be more varied and
 charming than the compositions we constantly meet
@@ -231,6 +255,10 @@ painters embodied the idea of security and protection
 from the savage and destructive forces of
 nature and man—a sanctuary of peace, a garden
 of delight.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f085" %}
+
 
 We have in modern times turned rather from the
 city as a complete and beautiful thing, to the individual
@@ -306,6 +334,10 @@ corners as the quaint street of Canterbury
 (p. 153), which forms an excellent study in the
 composition of angular and vertical lines.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f086" %}
+
+
 Formal Composition
 
 We may perceive that there are at least two
@@ -357,6 +389,10 @@ linking their hands would be appropriately
 governed by similar spiral lines, uniting them with
 the meandering wave line (see illustration, p. 155).
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f087" %}
+
+
 Upon a series of semicircles or ellipses, alternating
 horizontally, might be arranged a little
 frieze of children with skipping ropes, or Amorini
@@ -374,6 +410,10 @@ and type would be appropriate, while the emblems
 and accessories might be varied. A severer treatment
 would be suggested by making the controlling
 line angular (see illustration, p. 156).
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f088" %}
+
 
 Such are a few illustrations of what I have
 termed formal composition, in which the geometric
@@ -455,6 +495,10 @@ the expression of energy and rapid movement,
 concerted groups of lines are none the less necessary
 (see illustration, p. 159).
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f089" %}
+
+
 Such comparisons indicate not only that there
 is a necessary association of ideas with certain
 lines and forms, but also that certain relations
@@ -472,6 +516,10 @@ The sense of repose and restfulness necessary to
 sitting or reclining groups depends upon the gentle
 declivities of the curves and their gradual descent
 to the horizontal.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f090" %}
+
 
 Draw a figure sitting rigid, tense, and alert,
 and you destroy the sense of repose at once, and
@@ -497,6 +545,10 @@ general tendency must be in one direction. Every
 line in a composition must lead up to the central
 idea, and be subordinated or contributory to it
 (see illustration, Nos. 1 and 2, p. 163).
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f091a" %}
+
 
 The same with masses: you cannot put a
 number of forms together without some sort of
@@ -525,6 +577,10 @@ delicate lines taken by the sculptured sand, but in
 the harmonious grouping of masses of shingle and
 shells, weeds and drift, arranged by the movement
 of the waves.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f091b" %}
+
 
 Principles of Harmonious Composition
 

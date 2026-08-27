@@ -56,6 +56,10 @@ surface, since it is in this sensitiveness that the
 expressive power and peculiar virtue of line-drawing
 consists.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f036" %}
+
+
 A feather, a lily, a scallop shell, all show as an
 essential principle of their form and construction
 the radiating line; but what a different quality of
@@ -91,6 +95,10 @@ or too loose and indefinite on the other, requires
 extraordinary skill, knowledge, and practice in
 the use of line. I do not suppose the greatest
 master ever satisfied himself yet in this direction.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f037" %}
+
 
 Degree and Emphasis
 
@@ -182,6 +190,10 @@ stops in the wrong place.
 By a difference in emphasis the same design
 may be given quite a different effect and expression.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f038" %}
+
+
 Suppose, for instance, we were designing a vertical
 pattern of stem, leaves, and fruit in one colour.
 By throwing the emphasis upon the leaves, as in
@@ -204,6 +216,10 @@ see in nature herself. The pictorial artist is free
 to translate or represent them in his work, controlled
 solely by the conditions and purpose of
 his work.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f039" %}
+
 
 It is these conditions and purposes which really
 control both choice and treatment, and determine
@@ -233,6 +249,22 @@ in all design associated with type for surface
 printing, that there should be a certain harmonious
 relation between lettering or type and printer's
 ornament or picture.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f040" %}
+
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f041a" %}
+
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f041b" %}
+
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f041c" %}
+
 
 A firm and open quality of line, with bright black
 and white effects, not only has the most attractive
@@ -374,6 +406,10 @@ or shadow of the moist pointed brush itself, to the
 elaborate graphic drawing in line or light and
 shade.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f042" %}
+
+
 In forming the leaf shape one begins with a light
 pressure, if at the point, and proceeds to increase
 it for the middle and broader end. On the same
@@ -393,6 +429,10 @@ lose sight, in using the brush as a drawing tool, of
 its distinctive quality and character, and impart it
 to all work done by its means.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f043" %}
+
+
 The direct touch with the full brush—to cultivate
 this is of enormous advantage to all artists,
 whatever particular line of art they may follow,
@@ -407,6 +447,10 @@ it equally in another—character and form. A bit
 of Oriental porcelain or Persian tile may show the
 same dexterous charm and full-brush feeling exercised
 in a strictly decorative direction.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f044" %}
+
 
 The empire of the brush, if we think of it in all
 its various forms and directions, is very large; and

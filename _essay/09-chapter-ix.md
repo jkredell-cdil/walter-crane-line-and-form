@@ -41,6 +41,10 @@ art ever produced. The ancient Asiatic nations
 were well aware of its value not only as decoration
 but as a record.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f119" %}
+
+
 The palace and temple and tomb-walls of ancient
 Egypt, Persia, and Assyria vividly illustrate the
 life and ideas of those peoples, while they conform
@@ -93,6 +97,10 @@ rendered with varying degrees of merit; but they
 have chiefly demonstrated the need of continuous
 practice in such work on the part of our painters
 and the absence of a true decorative instinct.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f120" %}
+
 
 It is to the honour of Manchester that her
 Town Hall contains one of the most important
@@ -215,6 +223,10 @@ to form a background for humanity. With natural
 flowers and leaves it is always right to design for
 mural purposes on the same scale as nature.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f121" %}
+
+
 Scale
 
 Scale in design should be also considered in
@@ -230,6 +242,10 @@ of the space which he had to decorate, and what it
 suggested to his mind. He might want to emphasize
 a long, low room by horizontal lines, or to
 accentuate a lofty one by verticals.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f122" %}
+
 
 By the judicious use of line and scale in design,
 the designer holds a certain power of transformation
@@ -310,6 +326,10 @@ the chance of putting a frieze, and a frieze usually
 gives the effect of additional height to a room,
 besides enriching the wall.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f123" %}
+
+
 An effective treatment of a large room, and one
 which is more reposeful than cutting up the wall
 into these portions, as in dado, field, and frieze, is
@@ -364,6 +384,10 @@ Morris and his weavers), we ought not to allow
 anything to compete with it upon the same wall.
 It is sufficient in itself.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f128" %}
+
+
 Tapestry
 
 Of what splendour of colour and wealth of decorative
@@ -394,6 +418,10 @@ observe in libraries, especially when the bindings
 are rich and good in tone: and here, too, we get
 our verticals and horizontals again.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f125" %}
+
+
 So long as the feeling for the repose and flatness
 of the wall surface is preserved, there are no special
 limitations in the choice of form. It becomes far
@@ -416,6 +444,10 @@ planes were introduced, and sky effects to
 emulate painting, and thus the peculiarly mural
 feeling was lost, with its peculiar beauty, richness,
 and repose.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f124" %}
+
 
 In the translation into tapestry even of so
 tapestry-like a picture as that of Botticelli's "Primavera,"
@@ -477,6 +509,10 @@ it enhances that beauty of material and surface,
 and becomes a part of the expression of that
 material and surface, it is better without pattern.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f126" %}
+
+
 To place informal shaded flowers and leaves
 upon a carpet, for instance, where the warp is
 very emphatic, and the process of weaving necessitates
@@ -516,6 +552,10 @@ might cause, by changing the widths of his subsidiary
 borders and breaking them with a constant
 variety of small patterns, and inserting narrow
 white lines between the black lines of the border.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f127" %}
+
 
 Effect of Texture on Colour
 
@@ -622,6 +662,10 @@ or turn their couches, chairs, and curtains into
 scrap albums, but there is every reason *on the
 score of taste* why these things should not be done.
 
+
+{% include essay/feature/image-gallery.html objectid="25290_f129" %}
+
+
 With any textile, as I have said, we are as
 designers dealing with surface. It is surface
 ornament that is wanted also in printed cotton.
@@ -637,6 +681,10 @@ arabesques in colour of delicate subsidiary pattern
 instead of using coarse planes of light and shadow,
 or showing up ragged and unrelated forms upon
 violent grounds.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f130" %}
+
 
 The true idea of a print pattern is of something
 gay and fanciful: bright and fresh in colour, and
@@ -700,6 +748,10 @@ or glass picture, as it were: and the designer's
 object should be to make it good as an arrangement
 of line independently of the colour, while
 practical to the glazier.
+
+
+{% include essay/feature/image-gallery.html objectid="25290_f131" %}
+
 
 Although lead is very pliable, too much must
 
